@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_light_secondary">#f4f6ff</color>
+    <color name="color_light_primary">#23292F</color>
+    <color name="color_dark_primary">#25292D</color>
+    <color name="bg_dark_secondary">#2c2c2c</color>
+    <color name="shimmer_background_color">#fff2f2f2</color>
+    <color name="default_shimmer_color">#F8F8F8</color>
+    <color name="color_item_shimmer">#16000000</color>
+    <color name="color_active_selected">#54ccbf</color>
+
+    <color name="ColorSuccess">#22D543</color>
+
+    <color name="transparent_alpha_8">#4B000000</color>
+    <color name="dark_red">#B71C1C</color>
+    <color name="light_orange">#FFA726</color>
+    <color name="light_yellow">#FFEB3B</color>
+    <color name="light_green_review">#8BC34A</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_grey_payment">#BDBDBD</color>
+    <color name="default_star_color">#FFC107</color>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="grey_95">#1a1a1a</color>
+    <color name="grey_100_">#0d0d0d</color>lor>
+
+    <color name="orange_50">#FFF3E0</color>
+    <color name="orange_100">#FFE0B2</color>
+    <color name="orange_200">#FFCC80</color>
+    <color name="orange_300">#FFB74D</color>
+    <color name="orange_400">#FFA726</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="orange_600">#FB8C00</color>
+    <color name="orange_700">#F57C00</color>
+    <color name="orange_800">#EF6C00</color>
+    <color name="orange_900">#E65100</color>
+    <color name="orange_A100">#FFD180</color>
+    <color name="orange_A200">#FFAB40</color>
+    <color name="orange_A400">#FF9100</color>
+    <color name="orange_A700">#FF6D00</color>
+
+
+    <color name="color_green">#34b44a</color>
+    <color name="color_green_10">#ecf6ee</color>
+    <color name="color_green_30">#8acc9a</color>
+    <color name="color_green_40">#5bb871</color>
+    <color name="color_green_50">#3eac58</color>
+    <color name="color_green_60">#35934b</color>
+    <color name="color_green_80">#246634</color>
+    <color name="color_green_300">#81c784</color>
+    <color name="color_green_400">#66bb6a</color>
+    <color name="color_green_500">#34b44a</color>
+    <color name="color_green_500_alpha">#8034b44a</color>
+    <color name="color_green_700">#33b44a</color>
+    <color name="color_green_800">#2e7d32</color>
+    <color name="dark_green">#246634</color>
+    <color name="dark_green_lighter">#35934b</color>
+    <color name="color_green_status">#33b44a</color>
+    <color name="color_green_succeed">#ff33b44a</color>
+    <color name="color_green_tick_color">#42a113</color>
+    <color name="color_green_trx">#ff33b44a</color>
+
+
+
+    <color name="gnt_native_dark">#101D24</color>
+    <color name="gnt_ad_green">#3a6728</color>
+    <color name="gnt_bg_ad">#f0f0f0</color>
+    <color name="gnt_bg_ad_gray">#686868</color>
+    <color name="gnt_bg_ad_yellow">#eebf58</color>
+    <color name="gnt_bg_home">#454545</color>
+    <color name="gnt_bg_native">#ffffff</color>
+    <color name="gnt_bg_dark">#191920</color>
+    <color name="gnt_black">#000000</color>
+    <color name="gnt_black_20">#33000000</color>
+    <color name="gnt_black_30">#4d000000</color>
+    <color name="gnt_black_50">#80000000</color>
+    <color name="gnt_blue">#4285f4</color>
+    <color name="gnt_btn_accent">#23384F</color>
+    <color name="gnt_btn_accent_50">#54ccbf</color>
+    <color name="gnt_cta_button_color">#eebf58</color>
+    <color name="gnt_gray">#808080</color>
+    <color name="gnt_gray_2">#828282</color>
+    <color name="gnt_green">#00ff00</color>
+    <color name="gnt_headline_color">#fff</color>
+    <color name="gnt_outline">#e0e0e0</color>
+    <color name="gnt_purple">#cd4aff</color>
+    <color name="gnt_red">#ff0000</color>
+    <color name="gnt_test_background_color">#00f4f4f4</color>
+    <color name="gnt_test_background_color_2">#00a3a3a3</color>
+    <color name="gnt_text_ad_black">#201f21</color>
+    <color name="gnt_text_secondary_color">#a3a3a3</color>
+    <color name="gnt_txt_btn_accent">#ffffff</color>
+    <color name="gnt_white">#ffffff</color>
+    <color name="gnt_white_20">#33ffffff</color>
+    <color name="gnt_white_30">#4dffffff</color>
+    <color name="gnt_white_50">#80ffffff</color>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NextView">
+        <!-- Corner radius attributes -->
+        <attr name="android:radius" format="dimension" />
+        <attr name="android:topLeftRadius" format="dimension" />
+        <attr name="android:topRightRadius" format="dimension" />
+        <attr name="android:bottomLeftRadius" format="dimension" />
+        <attr name="android:bottomRightRadius" format="dimension" />
+
+
+        <!-- Stroke attributes -->
+        <attr name="uiStrokeWidth" format="dimension" />
+        <attr name="uiStrokeColor" format="color" />
+
+        <!-- Dash attributes -->
+        <attr name="uiDashWidth" format="dimension" />
+        <attr name="uiDashGap" format="dimension" />
+
+        <!-- Fill color -->
+        <attr name="uiFillColor" format="color" />
+
+        <!-- WillNotDraw attribute -->
+        <attr name="willNotDraw" format="boolean" />
+
+
+        <attr name="dividerType" format="enum">
+            <enum name="line" value="0" />
+            <enum name="circle" value="1" />
+        </attr>
+        <attr name="dividerColor" format="color" />
+        <attr name="dividerPadding" format="dimension" />
+
+        <attr name="uiShimmerAngle" format="integer" />
+        <attr name="uiShimmerAnimationDuration" format="integer" />
+        <attr name="uiShimmerColor" format="color" />
+        <attr name="uiIsVisible" format="boolean" />
+        <attr name="uiMaskWidth" format="float" />
+        <attr name="uiGradientCenterColorWidth" format="float" />
+        <attr name="uiAnimationReversed" format="boolean" />
+        <attr name="uiShimmer_auto_start" format="reference|boolean"/>
+
+        <attr name="uiSwitch_label_off" format="string" />
+        <attr name="uiSwitch_label_on" format="string" />
+        <attr name="uiSwitch_disabled" format="boolean" />
+        <attr name="uiSwitch_show_image" format="boolean" />
+        <attr name="uiSwitch_image_off" format="reference" />
+        <attr name="uiSwitch_image_on" format="reference" />
+        <attr name="uiSwitch_height" format="dimension"/>
+
+        <attr name="adsNativeStyle">
+            <enum name="medium" value="0"/>
+            <enum name="small" value="1"/>
+            <enum name="large" value="2"/>
+            <enum name="full" value="3"/>
+        </attr>
+
+        <attr name="uiTextLang" format="string" />
+        <attr name="uiFlagLang" format="reference" />
+        <attr name="uiSelectImageLang" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="TemplateView">
+        <attr name="gnt_template_type" format="reference"/>
+        <attr name="gnt_template_start" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="NativeAdView">
+        <attr name="adMobNativeButton" format="reference"/>
+        <attr name="startappNativeButton" format="reference"/>
+    </declare-styleable>
+</resources>
